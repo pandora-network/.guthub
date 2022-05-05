@@ -1,4 +1,4 @@
-Pandora network is a distributed uncensorable smart contract & computing multi-layer network build with LNP/BP protocols (Bitcoin, Lightning, [RGB](https://github.com/RGB-WG), [Bifrost]](https://github.com/LNP-WG), [Prometheus]](https://github.com/Prometheus-WG), [Storm](https://github.com/Storm-WG)) created and maintained by [Pandora Prime SA](https://github.com/pandora-prime).
+Pandora network is a distributed uncensorable smart contract & computing multi-layer network build with LNP/BP protocols (Bitcoin, Lightning, [RGB](https://github.com/RGB-WG), [Bifrost]](https://github.com/LNP-WG), [Prometheus](https://github.com/Prometheus-WG), [Storm](https://github.com/Storm-WG)) created and maintained by [Pandora Prime SA](https://github.com/pandora-prime).
 
 Its key value proposition is combination of scalability and strong confidentiality (which implies strong censorship-resistant properties).
 
