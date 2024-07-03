@@ -1,23 +1,9 @@
-Pandora network is a distributed uncensorable smart contract & computing multi-layer network build with LNP/BP protocols (Bitcoin, Lightning, [RGB](https://github.com/RGB-WG), [Bifrost](https://github.com/LNP-WG), [Prometheus](https://github.com/Prometheus-WG), [Storm](https://github.com/Storm-WG)) created and maintained by [Pandora Prime SA](https://github.com/pandora-prime).
+# Ultraviolet network is ultra-scalable smart contract platform
 
-Its key value proposition is combination of scalability and strong confidentiality (which implies strong censorship-resistant properties).
+## *unlocking digital economy of planetary scale, IoT and AI*
 
-It's key abilities are:
-- Multiparty trustless smart contracts
-- Multiparty generic computing (including machine learning)
-- Decentralized data storage
-- Efficient messaging
+![image](https://github.com/ultraviolet-network/.github/assets/372034/c59a76d8-838b-4417-90dd-92c716b68d11)
 
-Its **first layer** consists of two domains: bitcoin blockchain and Pandora RNA - a sidechain designed for use with client-side-validation.
+Ultraviolet is built as layer 2 on top of Bitcoin; it is further evolution of client-side validation with [RGB smart contracts](https://rgb.tech), ultra-scalable consensus (Prime), data availability network (Storm) and decentralized scalable computing and machine learning network (Prometheus). It is created by [Pandora Prime SA](https://github.com/pandora-prime).
 
-The **second layer** consists of a federation of Lightning nodes, operating Bifrost protocol. These nodes maintain a set of multi-peer channels.
-
-The **third layer** is a reputation-based layer, composed of a subnetwork of lightning nodes operating Storm and Prometheus protocols and providing decentralized search and computing services.
-
-The forth, application layer, provides following services, based on the layers underneath:
-- Curated asset catalog, for the use by wallets, exchanges and other asset market players;
-- Oracles for DLC and RGB contracts;
-- Liquidity pools on Lightning network and a set of DEX nodes with ability to stake bitcoins and earn share in DEX operation profits;
-- Search over decentralized storm network ("duckduckgo for lightning");
-- Simplified decentralized search, storage and computing (including machine learning) APIs using pools of storage and computing providers from the layer three;
-- Decentralized market for data and computing models.
+![image](https://github.com/ultraviolet-network/.github/assets/372034/77c89b2f-7fd2-478a-979e-183660b5078f)
