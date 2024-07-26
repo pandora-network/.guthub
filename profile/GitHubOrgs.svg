@@ -125,7 +125,7 @@
                                   class="frame-background"/>
                         </g>
                         <g class="frame-children">
-                            <a href="https://github.com/RGB-WG">
+                            <a href="https://github.com/RGB-WG" target="_blank">
                                 <g class="text-container"
                                    id="shape-6d49af65-d0b2-80fd-8004-b6e9e2a2ccba"
                                    data-testid="RGB">
