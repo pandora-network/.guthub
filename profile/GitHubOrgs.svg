@@ -124,7 +124,7 @@
                             <rect rx="0" ry="0" x="50" y="190.4" width="732" height="224"
                                   class="frame-background"/>
                         </g>
-                        <a class="frame-children">
+                        <g class="frame-children">
                             <a href="https://github.com/RGB-WG">
                                 <g class="text-container"
                                    id="shape-6d49af65-d0b2-80fd-8004-b6e9e2a2ccba"
